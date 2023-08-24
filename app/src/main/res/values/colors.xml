@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textBlue">#2D00F7</color>
+    <color name="bgColor">#F4E04D</color>
+    <color name="btnBgColor">#FFC300</color>
+    <color name="selectedDateColor">#5EB1BF</color>
+    <color name="resultColor">#9E2A2B</color>
+</resources>
